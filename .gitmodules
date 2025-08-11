@@ -1,3 +1,12 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "Fabrication-utilities"]
+	path = Fabrication-utilities
+	url = https://github.com/LorenzaMNF/Fabrication-utilities.git
+[submodule "fabrication-utilities"]
+	path = fabrication-utilities
+	url = https://github.com/LorenzaMNF/Fabrication-utilities.git
+[submodule "packages/fabrication-utilities"]
+	path = packages/fabrication-utilities
+	url = https://github.com/LorenzaMNf/fabrication-utilities.git
